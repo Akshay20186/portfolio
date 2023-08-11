@@ -28,7 +28,7 @@ h4 {
     font-size: 2rem;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
     h4 {
         font-size: 30px;
         margin-left: 30%;
@@ -93,7 +93,7 @@ input[type=checkbox] {
 }
 
 /* APPLYING MEDIA QUERIES */
-@media (max-width: 768px) {
+@media (max-width: 600px) {
     .menu {
         display: none;
         position: absolute;
@@ -224,7 +224,7 @@ input[type=checkbox] {
     margin: 0 auto;
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 600px) {
     .leftSection {
         font-size: 20px;
     }
