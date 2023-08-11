@@ -31,7 +31,7 @@ h4 {
 @media screen and (max-width: 768px) {
     h4 {
         font-size: 30px;
-        margin-left: 35%;
+        margin-left: 33%;
     }
 }
 
@@ -693,7 +693,7 @@ form .button-area {
 
 .footer .box-container .box a {
     font-size: 1.5rem;
-    text-decoration: none;
+      text-decoration: none;
     color: #f1faee;
     padding: 0.3rem 0;
     display: block;
